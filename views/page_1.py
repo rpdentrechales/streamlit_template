@@ -2,8 +2,6 @@ import streamlit as st
 import altair as alt
 import pandas as pd
 import plotly.express as px
-from numerize.numerize import numerize
-from streamlit_gsheets import GSheetsConnection
 import datetime
 
 st.set_page_config(page_title="Sample Page", page_icon="💎",layout="wide")
