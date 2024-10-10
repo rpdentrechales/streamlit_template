@@ -1,7 +1,5 @@
 import streamlit as st
-import altair as alt
 import pandas as pd
-import plotly.express as px
 import datetime
 
 st.set_page_config(page_title="Sample Page", page_icon="💎",layout="wide")
